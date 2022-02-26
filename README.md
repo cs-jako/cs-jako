@@ -37,11 +37,7 @@ If you have an idea for a cool project
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="24" style="border-radius: 20px;">
 </a>
-
-<p style="font-size: 7px">
-Yes, I know those aren't actual programming languages
-</p>
-
+<br>
 <a href="https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24" style="border-radius: 20px;">
 </a>
@@ -53,7 +49,9 @@ Yes, I know those aren't actual programming languages
 <p style="font-style: italic">This section will be filled at a later point in time :D</p>
 
 <h2>Support me ☕</h2>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D14EA7L)
+<a href="https://ko-fi.com/D1D14EA7L" target="_blank">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" height="24" style="border-radius: 20px">
+</a>
 
 <h2>Coding stats</h2>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cs-jako&theme=onedark&show_icons=true&count_private=true"/>
