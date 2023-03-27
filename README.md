@@ -38,9 +38,6 @@ If you have an idea for a cool project
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="24" style="border-radius: 20px;">
 </a>
 
-<h2>Current Projects 📖</h2>
-<p style="font-style: italic">This section will be filled at a later point in time :D</p>
-
 <h2>Support me ☕</h2>
 <a href="https://ko-fi.com/D1D14EA7L" target="_blank">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="24" style="border-radius: 20px">
