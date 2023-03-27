@@ -4,7 +4,7 @@ Hello there ✌
 
 <p align="center" style="margin: 0 300px 0 300px">
 My name is Jan, also known as Crazy.
-I'm an 18-year-old developer from Germany, who mainly codes in Java.
+I'm an 19-year-old developer from Germany, who mainly codes in Java.
 </p>
 <p align="center" style="margin: 10px 300px 0 300px">
 If you have an idea for a cool project
@@ -36,13 +36,6 @@ If you have an idea for a cool project
 </a>
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="24" style="border-radius: 20px;">
-</a>
-<br>
-<a href="https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">
-<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="24" style="border-radius: 20px;">
-</a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="24" style="border-radius: 20px;">
 </a>
 
 <h2>Current Projects 📖</h2>
